@@ -1,0 +1,1 @@
+("8.4" ta6le ("bda00a9f9763443f6eef8053fc266d32fc8725b4" . "7689ea42c904401b7845b2f14bc9ae58db30dc85") (collects #"br" #"indent.rkt") (collects #"br" #"main.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt"))

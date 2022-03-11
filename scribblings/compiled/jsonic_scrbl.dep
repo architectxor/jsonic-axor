@@ -1,0 +1,1 @@
+("8.4" ta6le ("f7edc2264a4c31c9aafdbd4bdc2fc7c20a1b94eb" . "a16fa186412f8e58c68930b6b20779c7c8322bd6") (collects #"json" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"base" #"lang" #"configure-runtime.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))

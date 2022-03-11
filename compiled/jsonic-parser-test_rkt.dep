@@ -1,0 +1,1 @@
+("8.4" ta6le ("502c20d4883a04259e438fe2e6e8ee5d1551541b" . "462ba3ebf2b973d5bdc24fb3d8cfb81c453191e5") (collects #"br" #"main.rkt") (collects #"brag" #"support.rkt") (collects #"jsonic" #"parser.rkt") (collects #"jsonic" #"tokenizer.rkt") (collects #"racket" #"runtime-config.rkt"))

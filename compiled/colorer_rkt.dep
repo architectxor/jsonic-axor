@@ -1,0 +1,1 @@
+("8.4" ta6le ("dd6ef4037124dc40b7170c1672ef2c74c9b5c2cb" . "69b4e5d7bc21a110c0889ac825e98adf4cdc8419") (collects #"br" #"main.rkt") (collects #"brag" #"support.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"syntax-color" #"racket-lexer.rkt"))
